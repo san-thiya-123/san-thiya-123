@@ -49,7 +49,7 @@ Become a  Software Engineer.
 <a href="https://antigravity.dev" target="_blank">
   <img src="https://img.shields.io/badge/Antigravity-6C63FF?style=for-the-badge&logoColor=white" />
 </a>
----
+
 
 ## 📂 Featured Projects
 
