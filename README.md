@@ -96,3 +96,16 @@ https://github-readme-activity-graph.vercel.app/graph?username=san-thiya-123
 ## 👀 Visitor Count
 
 ![](https://komarev.com/ghpvc/?username=san-thiya-123&color=blue)
+
+---
+
+# 🐍 Snake Contribution Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/san-thiya-123/san-thiya-123/output/github-contribution-grid-snake.svg">
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my GitHub Profile ⭐
+</p>
+
