@@ -95,6 +95,6 @@ https://github-profile-trophy.vercel.app/?username=san-thiya-123
 ---
 
 <p align="center">
-⭐ Thanks for visiting my GitHub Profile ⭐
+🌟 Thanks for visiting my GitHub Profile 🌟
 </p>
 
