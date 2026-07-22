@@ -80,15 +80,10 @@ https://github-profile-trophy.vercel.app/?username=san-thiya-123
 
 ---
 
-## 📈 Contribution Graph
-
-https://github-readme-activity-graph.vercel.app/graph?username=san-thiya-123
-
----
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/https://www.linkedin.com/in/santhiya-v-5600712a5
+- LinkedIn: https://linkedin.com/in/santhiya-v-5600712a5
 - Email: santhiyavnkl@gmail.com
 
 ---
