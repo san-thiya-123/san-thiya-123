@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santhiya V</h1>
-<h3 align="center">💻 Computer Science Engineer |Web Developer | Data Analyst |  AI & UIUX Designer /h3>
+<h3 align="center">💻 Computer Science Engineer | Web Developer | Data Analyst |  AI & UIUX Designer /h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Data+Analytics;AI+%26+Builder;Always+Learning+New+Technologies" />
